@@ -5,7 +5,8 @@
 ---
 
 ## 🔗 Быстрые ссылки
-- **Демо онлайн (GitHub Pages):** [https://workout895-alt.github.io/asem-beauty/](https://workout895-alt.github.io/asem-beauty/)
+- **Короткая брендовая ссылка:** [https://tinyurl.com/asem-beauty](https://tinyurl.com/asem-beauty)
+- **Основной сайт (GitHub Pages):** [https://workout895-alt.github.io/asem-beauty/](https://workout895-alt.github.io/asem-beauty/)
 - **Карточка в 2ГИС:** [2GIS Asem Lux Beauty](https://2gis.kz/almaty/firm/70000001098696779)
 - **Instagram:** [@asemluxbeauty](https://www.instagram.com/asemluxbeauty/)
 - **Прямая запись в WhatsApp:** [+7 (778) 150-30-49](https://wa.me/77781503049)
